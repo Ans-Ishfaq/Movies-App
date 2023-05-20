@@ -1,6 +1,6 @@
 # Movies-App
 The Movie Search App is a React.js-based web application that allows users to discover movies easily. The app features a simple and intuitive interface where users can search for movies by title and view a list of related movies based on their search queries.
-
+![Screenshot (539)](https://github.com/Ans-Ishfaq/Movies-App/assets/84333937/64e157be-7b70-4ced-8a0e-66d9bb2afcc7)
 ## Key Features:
 Movie Search: Enter a movie title in the search bar to fetch a list of movies related to the entered query.
 Movie Listing: Browse through the search results and view essential information about each movie, such as its title and release year.
